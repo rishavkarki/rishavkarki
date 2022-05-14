@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rishavkarki
+- 👀 I’m interested in blockchain technology & decentralized finance
+- 🌱 I’m currently learning solidity & rust
+- 💞️ I’m looking to collaborate on defi projects
+- 📫 How to reach me - https://twitter.com/RishavKarki_
